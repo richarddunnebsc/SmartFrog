@@ -1,2 +1,4 @@
 # SmartFrog
 Homework
+Test Plan A consists of a Test Plan for a new action camera to test functional/operational specifications.  Carry out tests according to each Test case plotting the results of each test in the test plan matrix.  
+Test Plan B consists of a Test Plan for a Mobile App Redesign to test the functional/operational specifications and new features, Multi Factor Authentication, Geolocation, Two-Way Talk and Camera Orientation.  For the last feature, it is necessary to test the feature using two mobile phones, as it is not possible for a mobile phone to transmit and receive audio at the same time, and it is not possible to receive audio unless it is transmitted from another source.  Carry out tests according to each Test case plotting the results of each test in the test plan matrix.  
